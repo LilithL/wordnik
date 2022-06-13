@@ -1,6 +1,6 @@
-mod args;
-mod error;
-mod model;
+pub mod args;
+pub mod error;
+pub mod model;
 
 use std::fmt;
 
